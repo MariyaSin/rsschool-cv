@@ -8,6 +8,7 @@ _E-mail: maria1991@list.ru_
 
 _location: Russia, Saint Petersburg_
 
+
 ## Objective 
 I'm looking for a front-end developer position. With a 3-year of power engineering experience, I would prefer to move on to a new area. 
 
