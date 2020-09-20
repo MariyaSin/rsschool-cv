@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}.container{
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    text-align: center;
+}
+h1{
+    margin: 40px 0;
+    text-transform: uppercase;
+}
+.data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.photo img {
+    max-width: 300px;
+    border-radius: 50%;
+}
+.personalData p{
+    width: 100%;
+    text-align: right;
+}
+.myName{
+    font-weight: bold;
+}
+.objective,
+.skills,
+.education,
+.courses,
+.experience,
+.english{
+    margin: 50px 0;
+}
+
+h2{
+    border-bottom: 2px solid #f7f2f2;
+}
+a{
+    outline: none;
+    text-decoration: none;
+    color: #decece;
+}
+a:hover{
+    text-decoration: underline;
+}
+footer,
+nav{
+    background-color: #f7f2f2;
+    height: 40px;
+}
